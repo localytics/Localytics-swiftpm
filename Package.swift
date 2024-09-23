@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Localytics",
-            url: "https://github.com/localytics/Localytics-swiftpm/releases/download/6.3.1/Localytics-iOS-6.3.1.zip",
-            checksum: "4c62e81b3125992ca920e7f2dbe3fc6e51c3c993429a1df5d2c0d5245faba5f0"
+            url: "https://github.com/localytics/Localytics-swiftpm/releases/download/6.3.2/Localytics-iOS-.zip",
+            checksum: "e2940df2d86545d24639ea3bcbea6222707c0598a2db0901cca99a00f8e0bb92"
             ),
         .target(
             name: "_Localytics",

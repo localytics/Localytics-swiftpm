@@ -15,5 +15,5 @@ https://github.com/localytics/Localytics-swiftpm.git
 Add the following to the `Package.swift`:
 
 ```
-.package(url: "https://github.com/localytics/Localytics-swiftpm.git", from: "6.3.1")
+.package(url: "https://github.com/localytics/Localytics-swiftpm.git", from: "6.3.2")
 ```
