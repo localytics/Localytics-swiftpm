@@ -11,6 +11,7 @@ Under **File -> Add Packages...** add the following URL:
 https://github.com/localytics/Localytics-swiftpm.git
 ```
 
+
 ### Swiftpm Manifest
 Add the following  to the `Package.swift`:
 
