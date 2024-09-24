@@ -12,7 +12,7 @@ https://github.com/localytics/Localytics-swiftpm.git
 ```
 
 ### Swiftpm Manifest
-Add the following to the `Package.swift`:
+Add the following  to the `Package.swift`:
 
 ```
 .package(url: "https://github.com/localytics/Localytics-swiftpm.git", from: "6.3.2")
